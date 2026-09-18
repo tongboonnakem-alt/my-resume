@@ -19,3 +19,4 @@
 @media(max-width:359px){.dock a{width:61px}.dock ul{gap:0}.dock-label{font-size:14px}}
 @media(prefers-reduced-motion:reduce){.dock-icon{transition:none;transform:none!important}}
 @media(hover:none){.dock-icon{transform:none}}
+.lan-project{grid-column:1/-1}.lan-project h2{overflow-wrap:anywhere}.project-figure{margin:28px 0 20px;padding:16px;background:#f5f7fa;border:1px solid var(--line);border-radius:8px;text-align:center}.project-figure img{display:block;width:100%;height:auto;max-height:450px;object-fit:contain;background:white}.project-figure figcaption{font-size:14px;color:var(--muted);margin-top:12px}
